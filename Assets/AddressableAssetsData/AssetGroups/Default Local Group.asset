@@ -1,0 +1,289 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0105c155612be68498a15653c8eb8ded
+  m_SerializeEntries:
+  - m_GUID: ead5c7818f9457742800a5267a2345a2
+    m_Address: Assets/Textures/Items/Armor/TravelerArmor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 41c11e55aa6fd8444b5f98b8ec480b5f
+    m_Address: Assets/Textures/Items/Armor/ShadowArmor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6d83102d0132a05448247495f8177ddd
+    m_Address: Assets/Textures/Items/Armor/NobleArmor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: be8a5b97921161e49b43634d5465980d
+    m_Address: Assets/Textures/Items/Armor/HunterArmor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 26323923ae080b5489b324e35f6707b1
+    m_Address: Assets/Textures/Items/Armor/DragonArmor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 14721057dc4c2cf4daa8b84c446d8f4b
+    m_Address: Assets/Textures/Items/Armor/DeathArmor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 797d6fe5f155d8548acc6c620d39de77
+    m_Address: Assets/Textures/Items/Armor/SacredArmor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e3ad800b22a49064b9b223e758f96510
+    m_Address: Assets/Textures/Items/Armor/GuardArmor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 26fe8f56967766f489f822d64b4ec286
+    m_Address: Assets/Textures/Items/Armor/WarriorArmor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a9f7aff001d7f74f8da27efac9f9262
+    m_Address: Assets/Textures/Items/Armor/WizardArmor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63198d7f88a9dfd4994991fa37655dba
+    m_Address: Assets/Textures/Items/Armor/WolfArmor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d07dae03a11e8d34cba1a21bc7c1fadd
+    m_Address: Assets/Textures/Items/Boots/DeathBoots.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 855746fde26c71645a97544d674213c2
+    m_Address: Assets/Textures/Items/Boots/DragonBoots.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1976716720475cf4ca80340323d4a92a
+    m_Address: Assets/Textures/Items/Boots/GuardBoots.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01192234247a632478e78f043cc5ed6e
+    m_Address: Assets/Textures/Items/Boots/HunterBoots.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71eb48b6333e9f6499045a93b2d4121b
+    m_Address: Assets/Textures/Items/Boots/NobleBoots.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b9906d4362eb94e4189a86a38f8e2365
+    m_Address: Assets/Textures/Items/Boots/SacredBoots.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba87c0254b4e3a14981dc4e0a57259f6
+    m_Address: Assets/Textures/Items/Boots/ShadowBoots.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0cf44fb2fffecc64a8ae918405ab04f8
+    m_Address: Assets/Textures/Items/Boots/TravelerBoots.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 779ee0f3d9831ba47aa0ebaf3d5d8974
+    m_Address: Assets/Textures/Items/Boots/WarriorBoots.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb7877020725c714a89695e7b699a25d
+    m_Address: Assets/Textures/Items/Boots/WizardBoots.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff8a1b820a7b024409d108f79fd16dea
+    m_Address: Assets/Textures/Items/Boots/WolfBoots.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d0770e47aa87fc4b8498edc288f3541
+    m_Address: Assets/Textures/Items/Helmet/WizardHelmet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 158728f684e56a248ba80c8888db70a2
+    m_Address: Assets/Textures/Items/Helmet/NobleHelmet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82cc2774e147c144e92f6f474e427db4
+    m_Address: Assets/Textures/Items/Helmet/DragonHelmet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3bdd24a76b168134d806903a53fbdff8
+    m_Address: Assets/Textures/Items/Helmet/WolfHelmet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f51a7d9c3befa5742bd16c1616604f30
+    m_Address: Assets/Textures/Items/Helmet/DeathHelmet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e5c8c49bde4b8042a4467abd3b883d6
+    m_Address: Assets/Textures/Items/Helmet/WarriorHelmet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 34cc3b4e9d579a642a1d1212f70edc7c
+    m_Address: Assets/Textures/Items/Helmet/TravelerHelmet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abe1b3cf0c9901b4b80615187df71c14
+    m_Address: Assets/Textures/Items/Helmet/HunterHelmet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d529e585142af346bd59657a697b169
+    m_Address: Assets/Textures/Items/Helmet/ShadowHelmet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 725d7772f8320834f9d65819230d1ac5
+    m_Address: Assets/Textures/Items/Helmet/SacredHelmet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7b34c31450dd51748b586e04e6e8feb5
+    m_Address: Assets/Textures/Items/Helmet/GuardHelmet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5144eb4d6f5f1774a9474a5ee3ad2b34
+    m_Address: Assets/Textures/Items/Necklace/NobleNecklace.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6bb18d1a794ba8b45bde4ea16a5eca16
+    m_Address: Assets/Textures/Items/Necklace/DeathNecklace.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1aed0c769cc2e9647b1c1234b13920f9
+    m_Address: Assets/Textures/Items/Necklace/TravelerNecklace.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f34d77635268add49a92a9587b56cc86
+    m_Address: Assets/Textures/Items/Necklace/HunterNecklace.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d2e3ae3a76e4b04bb6e9d7c644ddfcd
+    m_Address: Assets/Textures/Items/Necklace/WizardNecklace.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 884a27b31e2dfb3479b7a06bace536ce
+    m_Address: Assets/Textures/Items/Necklace/SacredNecklace.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3a9d7af7466f90c4d8d99660e1382915
+    m_Address: Assets/Textures/Items/Necklace/ShadowNecklace.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f862cbfc395c35245abfdd07431d4b4b
+    m_Address: Assets/Textures/Items/Necklace/GuardNecklace.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 20d1237efc955724b980b1d319b1ec48
+    m_Address: Assets/Textures/Items/Necklace/WarriorNecklace.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 35600dfb1ea1a914b81c958cf5aacdfa
+    m_Address: Assets/Textures/Items/Necklace/WolfNecklace.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ba1a9c148e5b7a4babd9fde6e27f6ee
+    m_Address: Assets/Textures/Items/Necklace/DragonNecklace.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b35b640cb9c8df459717fa36f554af3
+    m_Address: Assets/Textures/Items/Ring/DeathRing.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb3ff3aa34b9d234291d453beb2da194
+    m_Address: Assets/Textures/Items/Ring/NobleRing.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e6c8c65fa0d2fb40a526bcfbfa1ba4c
+    m_Address: Assets/Textures/Items/Ring/WolfRing.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b231d18ff144b647b39c7250ac5ad04
+    m_Address: Assets/Textures/Items/Ring/DragonRing.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 766d2f9785f9ec44298978f734287de3
+    m_Address: Assets/Textures/Items/Ring/HunterRing.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea6608a405b89724fa191cfda82b8d28
+    m_Address: Assets/Textures/Items/Ring/ShadowRing.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3aa026e0f9aa94b429e383e1ee73663e
+    m_Address: Assets/Textures/Items/Ring/GuardRing.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f770ff1cebbce0f4bb6c3183f4cc6de1
+    m_Address: Assets/Textures/Items/Ring/WizardRing.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3658f5e396a346d4084286f626f96163
+    m_Address: Assets/Textures/Items/Ring/SacredRing.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e63755f016c9c7458780a8b5b837da6
+    m_Address: Assets/Textures/Items/Ring/TravelerRing.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a0eaf9c62b87d9b449f50ae29cffbda2
+    m_Address: Assets/Textures/Items/Ring/WarriorRing.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76ad1286352d8e04cbcfddb30a500dea
+    m_Address: Assets/Textures/Items/Weapon/WolfWeapon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 48e9178538fa6404caa111b916090881
+    m_Address: Assets/Textures/Items/Weapon/ShadowWeapon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f385c70e41ff0f4380a363cce4d42a9
+    m_Address: Assets/Textures/Items/Weapon/HunterWeapon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5758d187bc0d9724596abe48aada54fc
+    m_Address: Assets/Textures/Items/Weapon/TravelerWeapon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e5f1cd825117aa44b2592716bcc1926
+    m_Address: Assets/Textures/Items/Weapon/GuardWeapon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d606b6a108745249a58680e1042c99c
+    m_Address: Assets/Textures/Items/Weapon/DragonWeapon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d7c3271caadddf42a2ec31ccf523d8d
+    m_Address: Assets/Textures/Items/Weapon/DeathWeapon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4baf8326fbc55554b86dfedc2da864f2
+    m_Address: Assets/Textures/Items/Weapon/WizardWeapon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e5775f06845677b418f38919ff9219fe
+    m_Address: Assets/Textures/Items/Weapon/NobleWeapon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4752c1326acb6bd41a5ff3438f72d447
+    m_Address: Assets/Textures/Items/Weapon/SacredWeapon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1c7f54fb883c9344b9ff073f0b8480fb
+    m_Address: Assets/Textures/Items/Weapon/WarriorWeapon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: cb0866d064aaef548aaaacbd17ca2a46, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ab3cdefc8bfeca04bad22afa73b0243b, type: 2}
+    - {fileID: 11400000, guid: 441a9db13a3f4c248a78468ad29b3423, type: 2}
